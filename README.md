@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 - MyCore https://github.com/wolfand11/MyCore
 - UnityCommonUtils  https://github.com/wolfand11/UnityCommonUtils
 - ShaderToys https://github.com/wolfand11/ShaderToys
+
+### Engine
+- Vulkan https://github.com/wolfand11/Vulkan
+- GEngine https://github.com/wolfand11/GEngine
+- GRaytracer https://github.com/wolfand11/GRaytracer
+- GRaster https://github.com/wolfand11/GRaster
+
 ### Rendering
 - SkyRendering https://github.com/wolfand11/SkyRendering
 - CharRendering https://github.com/wolfand11/CharRendering
@@ -33,15 +40,20 @@ Here are some ideas to get you started:
 - TODSystem https://github.com/wolfand11/TODSystem
 - IBL https://github.com/wolfand11/IBL
 - ToonShading https://github.com/wolfand11/ToonShading
+
 ### CatlikeCoding
 - unitycatlikecoding https://github.com/wolfand11/unitycatlikecoding
 - customurp_1.0 https://github.com/wolfand11/customurp_1.0
 - customurp_2.0 https://github.com/wolfand11/customurp_2.0
-### Engine
-- Vulkan https://github.com/wolfand11/Vulkan
-- GEngine https://github.com/wolfand11/GEngine
+
 ### Art
 - Houdini https://github.com/wolfand11/Houdini
+- Blender https://github.com/wolfand11/Blender
+
+### AI
+- AI https://github.com/wolfand11/AI
+
 ### Tools
 - GraphicAPIInfo https://github.com/wolfand11/GraphicAPIInfo
 - Crack https://github.com/wolfand11/Crack
+- GaussianBlur https://github.com/wolfand11/GaussianBlur
